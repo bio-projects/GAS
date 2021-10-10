@@ -1,5 +1,5 @@
 # GAS
-Used to align the small genomic sequences against NCBI assemblies
+Used to align the genomic sequences against NCBI assemblies
 # Requirements
 Python
 - Download and install *python3* from the main website (https://www.python.org/)
